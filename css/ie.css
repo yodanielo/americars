@@ -1,0 +1,38 @@
+.barratitulo{
+    width:673px;
+    /*float:left; display:inline;
+    border-bottom:1px solid #cccccc;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    line-height:60px;
+    font-weight: bold;*/
+}
+#mostrar{
+    margin-left:30px;
+    padding-right:25px;
+}
+.nohaycarros{
+    width:730px;
+    padding-left:50px;
+}
+#cuerpo{
+    width:100%;
+}
+#cuadrologin{
+    display:inline;
+    position:relative;
+    z-index:40;
+    height:41px;
+    overflow:hidden;
+    padding:5px 0px 0px 18px;
+    margin-bottom: 30px;
+}
+#cuadrologin2{
+    display:inline;
+    position:relative;
+    z-index:40;
+    height:35px;
+}
+#lcerrarcesion{
+    line-height:25px;
+}
